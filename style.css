@@ -1,0 +1,61 @@
+.head{
+    background-color: #87adfe;
+}
+.log{
+    color: rgb(144, 44, 215);
+    font-size: 2em;
+}
+.can{
+    width: 50px;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.contain{
+    padding-bottom: 2px;
+}
+.leads{
+    font-size: 15px;
+    color: rgb(202, 180, 180);
+}
+/*.icon{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    animation: mymove 20s infinite;
+    animation-timing-function: ease-in-out;
+    tra
+}
+@keyframes mymove{
+    from {left:0px:}
+    to {right: 20px;}
+}**/
+.background{
+    display: flex;
+}
+.dash{
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
+}
+.userid{
+    display: flex;
+    justify-items: center;
+}
+.userid{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+/**.table{
+    height: 130px;
+    width: 200px;
+    background-color: red;
+}**/
+.animate{
+
+}
