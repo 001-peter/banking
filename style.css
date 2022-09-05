@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .head{
     background-color: #87adfe;
 }
@@ -20,18 +24,7 @@
     font-size: 15px;
     color: rgb(202, 180, 180);
 }
-/*.icon{
-    width: 50px;
-    height: 50px;
-    position: relative;
-    animation: mymove 20s infinite;
-    animation-timing-function: ease-in-out;
-    tra
-}
-@keyframes mymove{
-    from {left:0px:}
-    to {right: 20px;}
-}**/
+
 .background{
     display: flex;
 }
@@ -51,11 +44,24 @@
     display: block;
 
 }
-/**.table{
-    height: 130px;
-    width: 200px;
-    background-color: red;
-}**/
-.animate{
-
+.tp{
+    height: 450px;
+    width: 1000px;
+    background-image:;
+}
+.ty{
+    margin-top: 50px;
+}
+.transIn{
+    height: 50px;
+    width: 400px; 
+}
+.transBack{
+    height: 800px;
+    width: 1000px;
+    /**background-image: url(./bank-wire-transfer-man-working-holographic-interface-visual-screen-bank-wire-transfer-man-working-holographic-interface-99551230.jpg);**/
+}
+#section{
+  opacity: ;
+    background-image: url(./bank-wire-transfer-man-working-holographic-interface-visual-screen-bank-wire-transfer-man-working-holographic-interface-99551230.jpg);
 }
